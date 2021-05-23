@@ -1,0 +1,159 @@
+.çıkış {
+text-align: right;
+text-decoration: none;
+}
+
+#start {
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkkhaki;
+text-decoration: underline;
+background-image: url(https://512pixels.net/downloads/macos-wallpapers-thumbs/10-14-Night-Thumb.jpg);
+height: 700px;
+}
+
+#button {
+text-align: center;
+}
+
+#backg {
+background-image: none;
+background-image: url()
+}
+
+.hobi img {
+width: 40%;
+border-style: groove;
+border-color: darkslategray;
+}
+
+.hobi {
+text-align: center;
+}
+
+.link {
+background-color: black;
+}
+
+.link ul {
+list-style-type: none;
+margin: px;
+padding: px;
+overflow: hidden;
+background-color: rgb(26, 25, 25);
+}
+
+.link li {
+float: left;
+}
+
+.link li a {
+font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+display: inline-block;
+color: white;
+text-align: center;
+padding: 20px 20px;
+text-decoration: none;
+}
+
+.link li a:hover {
+background-color: rgb(223, 15, 15);
+}
+
+.active {
+background-color: rgb(38, 0, 255);
+}
+
+body {
+background-image: url();
+}
+
+.ft img {
+width: 100px;
+}
+
+a:active {
+color: darkblue;
+}
+
+#cv p {
+font-size: 30px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(24, 22, 22);
+background-color: thistle;
+}
+
+col .hobi {
+text-align: center;
+}
+
+.hobi img {
+border-style: solid;
+width: 700px;
+height: 400px;
+}
+
+#linkler {
+background-color: rgb(26, 25, 25);
+width: 100%;
+height: 150px;
+}
+
+.se {
+text-align: center;
+}
+
+.se p {
+font-size: 30px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: thistle;
+}
+
+.se img {
+border-style: solid;
+border-color: rgb(0, 255, 0);
+}
+
+#c {
+text-align: center;
+}
+
+#c p {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+background-color: thistle;
+}
+
+#c img {
+width: 600px;
+height: 300px;
+float: left;
+}
+
+.hr {
+text-align: center;
+}
+
+.futbol {
+text-align: center;
+}
+
+.futbol p {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+background-color: thistle;
+}
+
+.futbol img {
+float: left;
+}
+
+#nufus p {
+font-size: 30px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#nufus {
+text-align: center;
+}
